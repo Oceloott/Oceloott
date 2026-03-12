@@ -1,15 +1,57 @@
-<h1 align="center">Hi 👋, I'm Baptiste BALLESTEROS</h1>
-<h3 align="center">Welcome to my World 👽</h3>
+# Salut, moi c’est Baptiste Ballesteros
 
-# 💫 About Me:
-<br>
-I'm a 22 years old student at Hetic, I'm a creative and passionate Front-end Developer
-<br>
-<br>
-🔭 I’m currently working on my portfolio<br>🌱 I’m always learning and improving
+Développeur full-stack orienté produit, j’aime transformer une idée en expérience web claire, performante et utile.
+Je conçois, je code, je résous.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>  <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a>  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a></p>
+## À propos
 
+- Diplômé en développement web
+- Expérience en agence et en produit
+- Disponible pour des missions freelance
+- Focus actuel: applications web modernes, interfaces soignées et architecture scalable
 
+## Stack principale
+
+Frontend
+- Vue.js, Nuxt.js
+- React, Next.js
+- JavaScript, TypeScript
+- HTML, CSS, GSAP
+
+Backend
+- Symfony, PHP
+- Java, Spring Boot
+- Firebase, architecture serverless
+
+Outils
+- Git, CI/CD, WordPress
+- Kotlin (mobile)
+
+## Expérience
+
+- Développeur full-stack chez Empreinte Carbone (2 ans)
+- Développeur front-end chez Calliweb (1 an)
+- Développeur front-end chez Actual (6 mois)
+
+## Projets sélectionnés
+
+- PetSitterNow: plateforme de promenade à la demande (matching géolocalisé, suivi GPS, notifications push)
+- Empreinte Carbone: application de calcul et visualisation d’empreinte carbone
+- Urban Station: plateforme de location de locaux, animations GSAP
+- Relais Colis: plateforme web de gestion de relais colis
+- Color Picker: génération et test de palettes élégantes
+- Pokedex: projet design en Vue/Nuxt
+
+## Liens
+
+- Portfolio: https://baptiste-ballesteros.fr
+- LinkedIn: https://www.linkedin.com/in/baptiste-ballesteros/
+- GitHub: https://github.com/Oceloott
+- Email: baptiste.blst@gmail.com
+- X: https://x.com/tolecodev
+
+## Ce que je recherche
+
+Construire des produits web utiles, bien pensés et bien exécutés, avec une vraie attention à l’expérience utilisateur et à la qualité technique.
+
+Si tu veux collaborer sur un projet, je suis partant.
