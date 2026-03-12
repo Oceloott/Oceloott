@@ -11,12 +11,6 @@
 	<a href="https://github.com/Oceloott"><img src="https://img.shields.io/badge/GitHub-Oceloott-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-## Profil
-
-- Diplome en developpement web
-- Experience agence + produit
-- Disponible en freelance
-- Focus: interfaces soignees et architecture scalable
 
 ## Stack
 
@@ -40,16 +34,3 @@
 | Front-end dev - Calliweb | 1 an |
 | Front-end dev - Actual | 6 mois |
 
-## Projets
-
-- PetSitterNow: app on-demand (matching geolocalise, suivi GPS, notifications push)
-- Empreinte Carbone: calcul et visualisation d'empreinte carbone
-- Urban Station: plateforme B2B avec animations GSAP
-- Relais Colis: plateforme de gestion de relais colis
-
-## Contact
-
-- Email: baptiste.blst@gmail.com
-- X: https://x.com/tolecodev
-
-Je suis partant pour collaborer sur des produits web utiles et bien executes.
